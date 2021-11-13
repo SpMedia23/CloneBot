@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Clonebot ⚡<br></h1> 
+<h1 align="center">⚡ SP Clone ⚡<br></h1> 
 
 <br />
 
