@@ -93,3 +93,5 @@ Note : there are hidden features, check at the source code of the bot to find th
 - [anymeofu](https://github.com/anymeofu/CloneBot) for making the Direct Heroku deployable Version
 - Zero-The-Kamisama to making me discover this amazing bot and the detailed instructions
 - [zorgof](https://t.me/zorgof) for the termux script
+
+<h1 align="center"> Thank You msgsuite <br></h1> 
